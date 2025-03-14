@@ -16,3 +16,6 @@ print ("O custos foi de:", somacusto)
 print ("O ganho foi de: ", somaganho)
 print ("O Saldo foi de: ", somaganho - somacusto)
 
+/// Custo: 2500 ///
+/// Ganho: 5450 ///
+/// Saldo: 2950 ///
